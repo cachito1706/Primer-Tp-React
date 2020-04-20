@@ -1,0 +1,29 @@
+ .styleFooter{
+    position: relative;
+    left: 25%;
+}
+ .bodyTotal {
+    position: relative;
+    left: 25%;
+    top:20px;
+}
+.headerCard {
+    background:#80837F !important;
+    color:White;
+    align-content: center;
+    text-align: center;
+    height: 50px;
+    position: relative
+}
+.headerCard-activa{
+    background:#80837F !important;
+    color:white;
+}
+.TitleCards{
+    position :relative ;
+    top:10px;
+}
+.comprador{
+    position: relative;
+    top:20px;
+}
